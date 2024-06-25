@@ -1,0 +1,28 @@
+Note to myself (Gina)
+
+When you fork a project on GitHub, you create a personal copy of the original repository under your GitHub account. Here’s how edits work:
+
+Visibility of Your Edits
+Personal Fork: Any changes you make to your forked repository are initially only visible to you and anyone who has access to your fork (e.g., collaborators you add).
+
+Pull Requests: If you want to share your changes with the original repository, you can create a pull request. The maintainers of the original project can then review your changes and decide whether to merge them.
+
+Public Fork: If your forked repository is public, others can view your changes by navigating to your fork on GitHub. They won’t see your edits unless they specifically look at your forked repository.
+-----
+i added a file and it asks 
+Direct commit or PR
+
+Commit directly to the master branch
+
+Create a new branch for this commit and start a pull request
+ChatGPT
+When you add a file to your forked GitHub repository, you can choose between two options for committing your changes:
+
+1. Direct Commit
+Commit Directly to the main Branch: This option will add your changes directly to the main branch of your forked repository.
+Use When: You are confident in your changes and don’t need to test them separately or get a review.
+Effect: Your changes become part of the main branch of your fork immediately. You can later create a pull request from your fork’s main branch to the original repository if you want to propose your changes there.
+2. Create a New Branch and Pull Request (PR)
+Create a New Branch for This Commit and Start a Pull Request: This option creates a new branch for your changes and initiates a pull request.
+Use When: You want to keep your changes isolated for testing, or you plan to propose your changes to the original repository and want them reviewed first.
+Effect: A new branch is created in your fork. You can work on this branch independently and create a pull request to merge it into your main branch or into the original repository.
